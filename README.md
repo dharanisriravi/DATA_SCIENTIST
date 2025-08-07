@@ -8,7 +8,7 @@ This repository showcases a curated collection of Machine Learning algorithms, s
 Supervised learning uses labeled data to train models for predictions. It is divided into two main types:
 
 ### 1. Classification
-- Decision Trees – [Decision Tree Repo]
+- Decision Trees – [Decision Tree Repo](https://github.com/dharanisriravi/DECISION_TREE/blob/master/README.md)
 - Random Forest – [Random Forest Repo]
 - SVM (Support Vector Machines) – [SVM Repo](https://github.com/dharanisriravi/SUPPORT_VECTOR_MACHINE)
 - KNN (K-Nearest Neighbors) – [KNN Repo]
