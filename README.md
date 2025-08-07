@@ -10,7 +10,7 @@ Supervised learning uses labeled data to train models for predictions. It is div
 ### 1. Classification
 - Decision Trees – [Decision Tree Repo]
 - Random Forest – [Random Forest Repo]
-- SVM (Support Vector Machines) – [SVM Repo]
+- SVM (Support Vector Machines) – [SVM Repo](https://github.com/dharanisriravi/SUPPORT_VECTOR_MACHINE)
 - KNN (K-Nearest Neighbors) – [KNN Repo]
 - Logistic Regression – [Logistic Regression Repo]
 - Naive Bayes – [Naive Bayes Repo]
