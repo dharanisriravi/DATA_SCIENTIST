@@ -30,7 +30,7 @@ Supervised learning uses labeled data to train models for predictions. It is div
 Unsupervised learning uses unlabeled data to find patterns and relationships.
 
 ### 1. Clustering
-- K-Means – [K-Means Repo]
+- K-Means – [K-Means Repo](https://github.com/dharanisriravi/K_MEANS)
 - Hierarchical Clustering – [Hierarchical Clustering Repo](https://github.com/dharanisriravi/HIERARCHICAL_CLUSTERING/blob/master/README.md)
 - DBSCAN – [DBSCAN Repo](https://github.com/dharanisriravi/DBSCAN_MODEL)
 
