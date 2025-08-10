@@ -31,7 +31,7 @@ Unsupervised learning uses unlabeled data to find patterns and relationships.
 
 ### 1. Clustering
 - K-Means – [K-Means Repo]
-- Hierarchical Clustering – [Hierarchical Clustering Repo]
+- Hierarchical Clustering – [Hierarchical Clustering Repo](https://github.com/dharanisriravi/HIERARCHICAL_CLUSTERING/blob/master/README.md)
 - DBSCAN – [DBSCAN Repo]
 
 ### 2. Dimensionality Reduction
